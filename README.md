@@ -49,7 +49,7 @@ This application includes the following features:
    - Users can select individual product rows using checkboxes.
    - A checkbox at the top allows users to select or deselect all visible rows at once.
    - Users can delete multiple selected products with a single click using the "Delete Selected" button.
-   - 
+
 5. **Responsive Design**:
    - The layout adjusts for different screen sizes, hiding the product description on smaller screens for a cleaner interface.
 
