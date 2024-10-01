@@ -8,7 +8,7 @@ app.use(cors());
 
 app.get('/products', async (req, res) => {
   try {
-    const response = await fetch('https://dummyjson.com/products');
+    const response = await fetch('https://dummyjson.com/products?limit=0');
     if(response.ok){
         const data = await response.json()
         res.json(data);
