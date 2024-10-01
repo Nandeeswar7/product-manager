@@ -7,7 +7,7 @@
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/Nandeeswar7/product-manager.git\
+   git clone https://github.com/Nandeeswar7/product-manager.git
    cd product-manager
    ```  
 
