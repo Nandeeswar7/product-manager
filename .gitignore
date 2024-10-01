@@ -1,3 +1,6 @@
 # dependencies
 api/node_modules
 web/node_modules
+
+# lock file
+package-lock.json
