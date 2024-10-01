@@ -43,7 +43,7 @@ function ProductsTable() {
     
     setFilteredProducts(filtered);
     setCurrentPage(1);
-  },2000),[products])
+  },500),[products])
   
   const handleSearch = function(event) {
     const value = event.target.value.toLowerCase();
